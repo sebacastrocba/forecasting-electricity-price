@@ -1,6 +1,6 @@
 # Forecasting Electricity Price using Machine Learning Models
 
-For this project machine learning models where use as forecasting models to predict future electricity price.
+For this project machine learning models were used as forecasting models to predict future electricity price.
 
 ## Dataset
 
